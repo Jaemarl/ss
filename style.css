@@ -53,3 +53,7 @@ hr {
 .qwe {
     margin-top: 300px;
 }
+
+.left h1,p{
+    text-align: left;
+}
